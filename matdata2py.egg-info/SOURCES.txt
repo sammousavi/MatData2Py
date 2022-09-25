@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+matdata2py/__init__.py
+matdata2py.egg-info/PKG-INFO
+matdata2py.egg-info/SOURCES.txt
+matdata2py.egg-info/dependency_links.txt
+matdata2py.egg-info/requires.txt
+matdata2py.egg-info/top_level.txt
